@@ -3,15 +3,13 @@ import React from 'react'
 export default function () {
   return (
     <div>
-      <section class="bg-center bg-no-repeat bg-[url('https://arteperlaliberta.com/wp-content/uploads/2021/12/15-f.jpg')] bg-gray-700 bg-blend-multiply">
+      <section class="bg-center bg-no-repeat bg-[url('https://i.pinimg.com/originals/3c/50/12/3c50125d9d3f8784a0f6cafe97ee5e5f.jpg')] bg-gray-700 bg-blend-multiply">
         <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
           <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
-            GreaseHub: Your One-Stop Platform for Vehicle Repair Solutions
+            Empowering your style, one click at a time.
           </h1>
           <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
-            "GreaseHub connects you with certified mechanics and repair shops near you,
-            ensuring top-quality service and convenience for all your vehicle
-            needs."
+            ###
           </p>
           <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
             <a

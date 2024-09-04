@@ -50,8 +50,8 @@ export default function Header() {
             />
           </Link>
           <h1 className="font-bold text-2xl text-white flex flex-wrap">
-            <span className="text-gray-200">Grease</span>
-            <span className="text-white">Hub</span>
+            <span className="text-gray-200">Fashion</span>
+            <span className="text-white">Project</span>
           </h1>
         </div>
 
