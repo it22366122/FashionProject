@@ -1,11 +1,11 @@
 import React from 'react'
 
-function test() {
+function test1() {
   return (
     <div>
-      dede
+      test1
     </div>
   )
 }
 
-export default test
+export default test1
